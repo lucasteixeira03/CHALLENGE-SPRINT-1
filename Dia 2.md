@@ -4,11 +4,17 @@
 # Orientações Gerais
 
 No dia 2 foi abordado afundo tudo sobre o scrum.
+
 -Gestão de projetos tradicional x Gestão ÁGIL de projetos.
+
 -Scrum master, Equipe scrum e dono do produto.
+
 -O fluxo do scrum (visão, backlog do porduto, backlog da sprint, sprint durando de 2 a 4 semanas, reunião diária em cada sprint, produto ou incremento).
+
 -Beneficíos da ótima comunicação em projetos
+
 -Como funciona uma reunião de planejamento de sprint.
+
 
 # Autor
 
