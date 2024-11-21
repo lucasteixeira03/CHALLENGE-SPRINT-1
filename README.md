@@ -7,8 +7,8 @@ Essa sprint 1, considerada como a inicial do estágio, tem como objetivo ensinar
 
 Além dos conteúdos disponivéis a respeito de SQL, NOSQL e CyberSecurity, essa trilha te leva a focar tanto na parte teórica quanto na prática, oferecendo diversos exercícios para o ensino-aprendizagem.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## Empresa do Estágio.
+![Compasso](https://github.com/lucasteixeira03/ASSETS/blob/main/compasso.png) 
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
