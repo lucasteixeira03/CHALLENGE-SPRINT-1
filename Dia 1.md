@@ -4,9 +4,13 @@
 # Orientações Gerais
 
 -Explicação dos challenges.
+
 -Instruções a respeito do uso do Miro e outras ferramentas de organização e estudos.
+
 -Utilização do Gitlab e GitHub.
+
 -Como fazer um README para portfolio.
+
 
 # Autor
 
