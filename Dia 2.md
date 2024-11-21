@@ -15,6 +15,8 @@ No dia 2 foi abordado afundo tudo sobre o scrum.
 
 -Como funciona uma reunião de planejamento de sprint.
 
+![scrum](https://github.com/lucasteixeira03/ASSETS/blob/main/Fluxo_Scrum.jpg) 
+
 
 # Autor
 
