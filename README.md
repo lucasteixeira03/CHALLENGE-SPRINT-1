@@ -10,11 +10,6 @@ Além dos conteúdos disponivéis a respeito de SQL, NOSQL e CyberSecurity, essa
 ## Empresa do Estágio.
 ![Compasso](https://github.com/lucasteixeira03/ASSETS/blob/main/compasso.png) 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
