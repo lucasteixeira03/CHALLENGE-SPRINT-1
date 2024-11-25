@@ -64,4 +64,4 @@ yarn start
 
 Lucas De Sousa Teixeira
 
-https://www.linkedin.com/in/lucas-teixeira
+[https://www.linkedin.com/in/lucas-teixeira](https://www.linkedin.com/in/lucas-teixeira-766a7a267/)
