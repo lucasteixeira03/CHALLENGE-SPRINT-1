@@ -10,9 +10,6 @@ Além dos conteúdos disponivéis a respeito de SQL, NOSQL e CyberSecurity, essa
 ## Empresa do Estágio.
 ![Compasso](https://github.com/lucasteixeira03/ASSETS/blob/main/compasso.png) 
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 ## Back end
 - Java
@@ -65,6 +62,6 @@ yarn start
 
 # Autor
 
-Wellington Mazoni de Andrade
+Lucas De Sousa Teixeira
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/lucas-teixeira-776a7a267/
