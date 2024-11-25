@@ -12,9 +12,8 @@ No dia 5 foi revisado o material a respeito dos Fundamentos Do Teste de Software
 "O TESTE QUE ENCONTRA DEFEITOS, CRIA A OPORTUNIDADE DE MELHORAR A QUALIDADE DO PRODUTO".
 
 
-![scrum](https://github.com/lucasteixeira03/ASSETS/blob/main/Fundamentos_teste.png) 
+![scrum](https://github.com/lucasteixeira03/ASSETS/blob/main/Fundamentos_teste.png) ![scrum](https://github.com/lucasteixeira03/ASSETS/blob/main/erro_defeito_bug.png) 
 
-![scrum](https://github.com/lucasteixeira03/ASSETS/blob/main/erro_defeito_bug.png) 
 
 
 # Autor
