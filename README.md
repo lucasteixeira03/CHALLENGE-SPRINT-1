@@ -12,6 +12,11 @@ Além dos conteúdos disponivéis a respeito de SQL, NOSQL e CyberSecurity, essa
 
 # Tecnologias utilizadas
 
+-Git
+
+-SQL
+
+-NOSQL (mongoDB)
 
 
 # Autor
