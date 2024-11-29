@@ -1,4 +1,4 @@
-# SPRINT 1
+# CHALLENGE SPRINT 1
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucasteixeira03/Exemplo-Readme/blob/main/LICENSE) 
 
 # Sobre a sprint
